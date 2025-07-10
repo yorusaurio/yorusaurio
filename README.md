@@ -31,10 +31,10 @@ I'm a 7th-semester Software Engineering student at **Universidad Peruana de Cien
 
 ## 📫 Reach Me At
 
-- ✉️ **sebastian.ramirez.m@upc.edu.pe**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sebastianramirezdev/)
+- ✉️ **u20191e575@upc.edu.pe**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-ram%C3%ADrez-m%C3%A9ndez-23594724b/)
 - 🐙 GitHub: [@yorusaurio](https://github.com/yorusaurio)
 
 ---
 
-> “Build things that matter. Learn fast, ship faster.”
+> “If you can imagine it, you can program it.” – *Alejandro Taboada (Programación ATS)*
