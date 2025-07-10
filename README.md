@@ -4,12 +4,17 @@ I'm a 7th-semester Software Engineering student at **Universidad Peruana de Cien
 
 ## 🚀 About Me
 
-- 🎓 Currently pursuing my B.Sc. in Software Engineering (2021–2026)
-- 🧠 Exploring backend development with **Spring Boot**, **Java**, and **MySQL**
-- 🌐 Experienced with frontend frameworks like **Vue 3**, **React**, and **Angular**
-- 🧪 Interested in system architecture, clean code, software testing (JUnit/Mockito), and agile development
-- 🔐 Exploring decentralized apps and smart contracts on Ethereum/Sepolia testnet
-- ⚙️ Comfortable with tools like **Docker**, **Railway**, **Render**, and GitHub Actions
+- 🎓 Currently pursuing my B.Sc. in Software Engineering (2021–2026) at UPC, Lima
+- 💻 Skilled in both frontend and backend development:
+  - Backend: **Spring Boot**, **.NET**, **Node.js**, **Java**, **Python**, **C++**, **Kotlin**
+  - Frontend: **Next.js**, **Vue 3**, **Angular**, **React**, **Tailwind CSS**, **HTML/CSS**, **JavaScript**, **TypeScript**
+- 🧠 Experienced with databases and API integration:
+  - **MySQL**, **MongoDB**, REST APIs, **Microservices**, and OAuth2 flows
+- 🔐 Familiar with **blockchain development** on Ethereum Sepolia using **Web3.js** and smart contracts
+- 📱 Mobile development using **Flutter** and native **Kotlin** for Android
+- ⚙️ DevOps & tools: **Docker**, **Railway**, **Render**, **GitHub Actions**, **Git**, **Figma**
+- 🧪 Passionate about clean code, system architecture, testing (JUnit/Mockito), and agile methodologies
+- 🌍 Bilingual: **Spanish** (native) and **English** (intermediate working proficiency)
 
 ## 📂 Some Projects I'm Proud Of
 
