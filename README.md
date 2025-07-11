@@ -1,38 +1,51 @@
-# 👋 Hi there! I'm Sebastián Ramirez
+# 👋 Hi there! I'm Sebastián Ramírez
 
-I'm a 7th-semester Software Engineering student at **Universidad Peruana de Ciencias Aplicadas (UPC)**, passionate about building impactful digital products with emerging technologies like **Blockchain**, **IoT**, and **AI**.
+I'm a 7th-semester Software Engineering student at **Universidad Peruana de Ciencias Aplicadas (UPC)**. I’m passionate about building powerful and user-focused **web and mobile applications** that help real businesses grow — from startups to established brands.
+
+Whether it’s an elegant landing page, a responsive e-commerce site, or a scalable mobile app, I enjoy turning ideas into digital products that deliver impact.
+
+---
 
 ## 🚀 About Me
 
-- 🎓 Currently pursuing my B.Sc. in Software Engineering (2021–2026) at UPC, Lima
-- 💻 Skilled in both frontend and backend development:
-  - Backend: **Spring Boot**, **.NET**, **Node.js**, **Java**, **Python**, **C++**, **Kotlin**
-  - Frontend: **Next.js**, **Vue 3**, **Angular**, **React**, **Tailwind CSS**, **HTML/CSS**, **JavaScript**, **TypeScript**
-- 🧠 Experienced with databases and API integration:
-  - **MySQL**, **MongoDB**, REST APIs, **Microservices**, and OAuth2 flows
-- 🔐 Familiar with **blockchain development** on Ethereum Sepolia using **Web3.js** and smart contracts
-- 📱 Mobile development using **Flutter** and native **Kotlin** for Android
-- ⚙️ DevOps & tools: **Docker**, **Railway**, **Render**, **GitHub Actions**, **Git**, **Figma**
-- 🧪 Passionate about clean code, system architecture, testing (JUnit/Mockito), and agile methodologies
-- 🌍 Bilingual: **Spanish** (native) and **English** (intermediate working proficiency)
+- 🎓 Studying Software Engineering (2021–2026) at UPC, Lima
+- 💻 Full-stack developer experienced with:
+  - **Frontend**: Next.js, Vue 3, Angular, React, Tailwind CSS, HTML/CSS, JavaScript, TypeScript
+  - **Backend**: Spring Boot, .NET, Node.js, Java, Python, C++, Kotlin
+- 🧠 Databases & APIs: MySQL, MongoDB, REST APIs, Microservices
+- 📱 Mobile dev: Flutter & native Android with Kotlin
+- ⚙️ Tools: Docker, Railway, Render, GitHub Actions, Git, Figma
+- 🧪 Focused on clean code, component architecture, and agile workflows
+- 🌍 Languages: Spanish (native), English (intermediate working proficiency)
 
-## 📂 Some Projects I'm Proud Of
+---
 
-- 🗳️ **VoteChain** – A decentralized voting platform built with blockchain
-- 🐹 **AgroCuy** – An IoT solution to optimize guinea pig farms using Arduino
-- 📅 **AidManager** – A task and project management web platform tailored for NGOs, enabling project leaders and volunteers to collaborate effectively and track impact.
+## 📂 Featured Projects
+
+- 🛒 **E-commerce platforms** – Frontend and backend solutions tailored for local entrepreneurs
+- 🗳️ **VoteChain** – A blockchain-based voting platform for secure, transparent decisions
+- 🐹 **AgroCuy** – An IoT system for guinea pig farms using Arduino
+- 📅 **AidManager** – A task and project tracker for NGOs and social organizations
+
+---
 
 ## 🌱 Currently Learning
 
-- 📚 Clean Architecture & Domain-Driven Design (DDD)
-- 🔧 CI/CD pipelines & containerized deployments
-- 📈 Business metrics (AARRR, TCEA, TIR) and financial modeling for apps
+- Clean Architecture & Domain-Driven Design (DDD)
+- CI/CD pipelines and containerized workflows
+- SEO and web performance optimization
+- Business logic modeling and startup growth metrics (AARRR, TIR)
 
-## 🤝 I’m Open To Collaborate On
+---
 
-- Web & mobile apps that generate real-world impact
-- Projects involving social good, education, or community tech
-- Startups looking to validate MVPs quickly
+## 🤝 Let’s Work Together
+
+I’m always open to collaborating on:
+- 🌐 Websites and admin dashboards for startups & businesses
+- 📲 Mobile apps for services, commerce, and communities
+- ✨ Projects with social or educational impact
+
+---
 
 ## 📫 Reach Me At
 
