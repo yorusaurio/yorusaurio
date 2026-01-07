@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Sebastián Ramírez
 
-I'm a 7th-semester Software Engineering student at **Universidad Peruana de Ciencias Aplicadas (UPC)**. I’m passionate about building powerful and user-focused **web and mobile applications** that help real businesses grow — from startups to established brands.
+I'm a 9th-semester Software Engineering student at **Universidad Peruana de Ciencias Aplicadas (UPC)**. I’m passionate about building powerful and user-focused **web and mobile applications** that help real businesses grow — from startups to established brands.
 
 Whether it’s an elegant landing page, a responsive e-commerce site, or a scalable mobile app, I enjoy turning ideas into digital products that deliver impact.
 
