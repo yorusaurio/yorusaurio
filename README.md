@@ -1,153 +1,110 @@
 # Sebastián Ramírez
 
-### Software Engineer · Automation · AI
+**Software Engineering · Automation · AI**
 
-I build software and digital systems that turn real problems into practical solutions.
+I build software and digital systems that turn operational problems into usable solutions — from web applications and APIs to automation, integrations, and applied AI in real business workflows.
 
-My work sits at the intersection of **software engineering, automation, artificial intelligence and business** — from web and mobile applications to APIs, integrations, cloud environments and intelligent workflows.
-
-Currently completing my **Software Engineering degree at Universidad Peruana de Ciencias Aplicadas (UPC)**.
+Based in Lima, Peru. Completing Software Engineering at **Universidad Peruana de Ciencias Aplicadas (UPC)** · 10th cycle · 2020–2026.
 
 ---
 
-## What I build
+## Positioning
 
-**Software**  
-Web, mobile and backend applications designed around real user and business needs.
+I don't start with a stack. I start with a problem.
 
-**Automation**  
-Systems and workflows that connect tools, eliminate repetitive tasks and improve operational processes.
+```text
+Problem → Data → Logic → Integration → Automation → Result
+```
 
-**AI**  
-Practical applications of artificial intelligence integrated into software and business workflows.
+Technology is the means. The goal is a system that businesses and teams can actually use.
 
-**Integrations**  
-APIs and connected systems that allow platforms, services and data to work together.
+---
+
+## What I do
+
+| Area | Focus |
+| --- | --- |
+| **Software** | Web, backend, and product systems shaped around real needs |
+| **Automation** | Workflows that connect tools and remove repetitive work |
+| **AI** | Practical AI integrated into processes — not decoration |
+| **Integrations** | APIs and connections so platforms and data work together |
+| **Cloud** | Deployment and infrastructure to take solutions to production |
+
+---
+
+## Experience
+
+**Co-CEO — DGM Cloud** · Present  
+Co-leading a software venture that builds web platforms, SaaS products, and automation for businesses.  
+→ [dgmcloud.dev](https://dgmcloud.dev)
+
+**External Developer — Panorama Hogar** · Apr 2026 – Present  
+Developing and supporting digital solutions for an e-commerce ecosystem: PrestaShop customization, catalog/promotions, API integrations, and operational automation.
 
 ---
 
 ## Selected work
 
-### 🛒 E-commerce Platforms
+**DGM Cloud** — Co-CEO · Software venture for custom digital solutions and business automation.
 
-Digital commerce solutions developed for real businesses and entrepreneurs, combining modern interfaces, backend logic and integrations.
+**Yorusito** — E-commerce platform (Next.js, TypeScript, PostgreSQL, Java).  
+→ [Demo](https://yorusito-frontend.vercel.app) · [Repo](https://github.com/yorusaurio/yorusitos-frontend)
 
-### 🗳️ VoteChain
+**VoteChain** — Blockchain voting platform for secure, verifiable decisions.  
+→ [Demo](https://votechain-frontend-one.vercel.app/public)
 
-A blockchain-based voting platform focused on transparency, traceability and secure decision-making.
+**AgroCuy** — IoT monitoring and alerts for guinea pig farms (Arduino, Flutter, Spring Boot).
 
-### 🐹 AgroCuy
+**AidManager · TecHelp · VetCare** — University team systems across web, mobile, and social impact.
 
-An IoT solution for guinea pig farming using Arduino and connected sensors to support monitoring and farm management.
-
-### 📋 AidManager
-
-A management platform designed for NGOs and social organizations to organize tasks, projects and activities.
-
-**More work → [sebrm.netlify.app](https://sebrm.netlify.app/)**
+Full case studies → portfolio site (local: `npm run dev` in this repo)
 
 ---
 
-## How I approach technology
+## Stack
 
-I don't start with a technology.
+**Frontend** — Next.js · React · TypeScript · Vue · Angular · Tailwind CSS · PrestaShop  
 
-I start with a problem.
+**Backend** — Java / Spring Boot · Node.js · .NET / C# · Python · PHP  
 
-```text
-Problem
-   ↓
-Understand
-   ↓
-Design
-   ↓
-Build
-   ↓
-Integrate
-   ↓
-Automate
-   ↓
-Improve
-```
+**Data** — MySQL · MongoDB · PostgreSQL  
 
-Technology is the tool.
+**Mobile** — Flutter  
 
-**The solution is the goal.**
+**Cloud & DevOps** — Docker · GitHub Actions · Vercel · Railway · Render  
 
----
+**APIs** — REST · OAuth2  
 
-## Toolbox
-
-### Languages
-
-`TypeScript` `JavaScript` `Java` `Python` `C++` `Kotlin`
-
-### Web
-
-`Next.js` `React` `Vue 3` `Angular` `Tailwind CSS` `HTML` `CSS`
-
-### Backend
-
-`Spring Boot` `.NET` `Node.js` `REST APIs` `Microservices`
-
-### Mobile
-
-`Flutter` `Android` `Kotlin`
-
-### Data
-
-`MySQL` `MongoDB`
-
-### Cloud & DevOps
-
-`Docker` `GitHub Actions` `Railway` `Render` `Git`
-
-### Design
-
-`Figma`
-
----
-
-## Areas of interest
-
-- Software Architecture
-- Automation
-- Artificial Intelligence
-- Cloud Technologies
-- API & System Integration
-- Web & Mobile Development
-- IoT
-- Blockchain
-- Product Development
-- Technology applied to business
-- Software Research
+**Other** — Arduino / IoT · Blockchain (VoteChain) · Applied AI (APIs, workflows, automation)
 
 ---
 
 ## Education
 
-**Universidad Peruana de Ciencias Aplicadas (UPC)**
+**Universidad Peruana de Ciencias Aplicadas (UPC)**  
+Software Engineering · 2020–2026 · Lima, Peru · 10th cycle
 
-Software Engineering · 2020–2026 · Lima, Peru
-
-My academic training has covered software engineering, application development, databases, architecture, APIs, cloud technologies, mobile development, IoT, blockchain, software quality, project management and research.
-
----
-
-## Beyond code
-
-I’m interested in understanding how technology can improve the way people and businesses work.
-
-That means looking beyond the code itself — understanding the process, identifying what can be improved, designing the right system and building a solution that is actually useful.
+Formation across software architecture, web & mobile development, databases, cloud, APIs, IoT, blockchain, AI foundations, software quality, project management, and applied research.
 
 ---
 
-## Let's build something useful
+## This repository
 
-I'm interested in opportunities where technology can solve meaningful problems — whether that's building a product, automating a process, connecting systems or improving an existing digital solution.
+Personal site for **Sebastián Ramírez** — built with Next.js 16, TypeScript, and Tailwind CSS. Bilingual ES / EN.
 
-**[Portfolio](https://sebrm.netlify.app/)** · **[LinkedIn](https://www.linkedin.com/in/saramirezdev/)** · **[GitHub](https://github.com/yorusaurio)** · **[Email](mailto:u20191e575@upc.edu.pe)**
+```bash
+npm install
+npm run dev
+```
 
 ---
 
-<sub>Software Engineer · Automation · AI · Lima, Peru</sub>
+## Contact
+
+Tell me what problem you have — manual processes, disconnected systems, or an idea that needs to become software.
+
+**[Email](mailto:sebastian1987102@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/saramirezdev)** · **[GitHub](https://github.com/yorusaurio)**
+
+---
+
+<sub>Sebastián Ramírez · Software Engineering · Automation · AI · Lima, Peru</sub>
