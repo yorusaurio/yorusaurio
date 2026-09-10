@@ -1,58 +1,153 @@
-# 👋 Hi there! I'm Sebastián Ramírez
+# Sebastián Ramírez
 
-I'm a 9th-semester Software Engineering student at **Universidad Peruana de Ciencias Aplicadas (UPC)**. I’m passionate about building powerful and user-focused **web and mobile applications** that help real businesses grow — from startups to established brands.
+### Software Engineer · Automation · AI
 
-Whether it’s an elegant landing page, a responsive e-commerce site, or a scalable mobile app, I enjoy turning ideas into digital products that deliver impact.
+I build software and digital systems that turn real problems into practical solutions.
 
----
+My work sits at the intersection of **software engineering, automation, artificial intelligence and business** — from web and mobile applications to APIs, integrations, cloud environments and intelligent workflows.
 
-## 🚀 About Me
-
-- 🎓 Studying Software Engineering (2021–2026) at UPC, Lima
-- 💻 Full-stack developer experienced with:
-  - **Frontend**: Next.js, Vue 3, Angular, React, Tailwind CSS, HTML/CSS, JavaScript, TypeScript
-  - **Backend**: Spring Boot, .NET, Node.js, Java, Python, C++, Kotlin
-- 🧠 Databases & APIs: MySQL, MongoDB, REST APIs, Microservices
-- 📱 Mobile dev: Flutter & native Android with Kotlin
-- ⚙️ Tools: Docker, Railway, Render, GitHub Actions, Git, Figma
-- 🧪 Focused on clean code, component architecture, and agile workflows
-- 🌍 Languages: Spanish (native), English (intermediate working proficiency)
+Currently completing my **Software Engineering degree at Universidad Peruana de Ciencias Aplicadas (UPC)**.
 
 ---
 
-## 📂 Featured Projects
+## What I build
 
-- 🛒 **E-commerce platforms** – Frontend and backend solutions tailored for local entrepreneurs
-- 🗳️ **VoteChain** – A blockchain-based voting platform for secure, transparent decisions
-- 🐹 **AgroCuy** – An IoT system for guinea pig farms using Arduino
-- 📅 **AidManager** – A task and project tracker for NGOs and social organizations
+**Software**  
+Web, mobile and backend applications designed around real user and business needs.
 
----
+**Automation**  
+Systems and workflows that connect tools, eliminate repetitive tasks and improve operational processes.
 
-## 🌱 Currently Learning
+**AI**  
+Practical applications of artificial intelligence integrated into software and business workflows.
 
-- Clean Architecture & Domain-Driven Design (DDD)
-- CI/CD pipelines and containerized workflows
-- SEO and web performance optimization
-- Business logic modeling and startup growth metrics (AARRR, TIR)
+**Integrations**  
+APIs and connected systems that allow platforms, services and data to work together.
 
 ---
 
-## 🤝 Let’s Work Together
+## Selected work
 
-I’m always open to collaborating on:
-- 🌐 Websites and admin dashboards for startups & businesses
-- 📲 Mobile apps for services, commerce, and communities
-- ✨ Projects with social or educational impact
+### 🛒 E-commerce Platforms
+
+Digital commerce solutions developed for real businesses and entrepreneurs, combining modern interfaces, backend logic and integrations.
+
+### 🗳️ VoteChain
+
+A blockchain-based voting platform focused on transparency, traceability and secure decision-making.
+
+### 🐹 AgroCuy
+
+An IoT solution for guinea pig farming using Arduino and connected sensors to support monitoring and farm management.
+
+### 📋 AidManager
+
+A management platform designed for NGOs and social organizations to organize tasks, projects and activities.
+
+**More work → [sebrm.netlify.app](https://sebrm.netlify.app/)**
 
 ---
 
-## 📫 Reach Me At
+## How I approach technology
 
-- ✉️ **u20191e575@upc.edu.pe**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/saramirezdev/)
-- 🐙 GitHub: [@yorusaurio](https://github.com/yorusaurio)
+I don't start with a technology.
+
+I start with a problem.
+
+```text
+Problem
+   ↓
+Understand
+   ↓
+Design
+   ↓
+Build
+   ↓
+Integrate
+   ↓
+Automate
+   ↓
+Improve
+```
+
+Technology is the tool.
+
+**The solution is the goal.**
 
 ---
 
-> “If you can imagine it, you can program it.” – *Alejandro Taboada (Programación ATS)*
+## Toolbox
+
+### Languages
+
+`TypeScript` `JavaScript` `Java` `Python` `C++` `Kotlin`
+
+### Web
+
+`Next.js` `React` `Vue 3` `Angular` `Tailwind CSS` `HTML` `CSS`
+
+### Backend
+
+`Spring Boot` `.NET` `Node.js` `REST APIs` `Microservices`
+
+### Mobile
+
+`Flutter` `Android` `Kotlin`
+
+### Data
+
+`MySQL` `MongoDB`
+
+### Cloud & DevOps
+
+`Docker` `GitHub Actions` `Railway` `Render` `Git`
+
+### Design
+
+`Figma`
+
+---
+
+## Areas of interest
+
+- Software Architecture
+- Automation
+- Artificial Intelligence
+- Cloud Technologies
+- API & System Integration
+- Web & Mobile Development
+- IoT
+- Blockchain
+- Product Development
+- Technology applied to business
+- Software Research
+
+---
+
+## Education
+
+**Universidad Peruana de Ciencias Aplicadas (UPC)**
+
+Software Engineering · 2020–2026 · Lima, Peru
+
+My academic training has covered software engineering, application development, databases, architecture, APIs, cloud technologies, mobile development, IoT, blockchain, software quality, project management and research.
+
+---
+
+## Beyond code
+
+I’m interested in understanding how technology can improve the way people and businesses work.
+
+That means looking beyond the code itself — understanding the process, identifying what can be improved, designing the right system and building a solution that is actually useful.
+
+---
+
+## Let's build something useful
+
+I'm interested in opportunities where technology can solve meaningful problems — whether that's building a product, automating a process, connecting systems or improving an existing digital solution.
+
+**[Portfolio](https://sebrm.netlify.app/)** · **[LinkedIn](https://www.linkedin.com/in/saramirezdev/)** · **[GitHub](https://github.com/yorusaurio)** · **[Email](mailto:u20191e575@upc.edu.pe)**
+
+---
+
+<sub>Software Engineer · Automation · AI · Lima, Peru</sub>
