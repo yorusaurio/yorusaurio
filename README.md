@@ -86,16 +86,6 @@ Software Engineering · 2020–2026 · Lima, Peru · 10th cycle
 
 Formation across software architecture, web & mobile development, databases, cloud, APIs, IoT, blockchain, AI foundations, software quality, project management, and applied research.
 
----
-
-## This repository
-
-Personal site for **Sebastián Ramírez** — built with Next.js 16, TypeScript, and Tailwind CSS. Bilingual ES / EN.
-
-```bash
-npm install
-npm run dev
-```
 
 ---
 
